@@ -19,10 +19,10 @@ Power BI
 ## Dashboards
 
 ### Guest stay records (10,000 stays)
-![Stay records dashboard](10000-stay-record.png)
+![Stay records dashboard](10000-stay-record-dashboard.png)
 
 ### Customer survey (200 responses)
-![Survey dashboard](200-survey-responses.png)
+![Survey dashboard](200-survey-responses-dashboard.png)
 
 ## Key findings
 1. **The stay data showed almost no difference between properties.** Repeat rates ranged only from 69.9% to 74.1% across all five properties, so no single property stood out as the problem.
