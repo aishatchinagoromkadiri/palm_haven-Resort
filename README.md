@@ -44,4 +44,4 @@ Power BI
 - Correlation is not cause: complaints and repeat decline moving together does not prove one causes the other.
 
 ## Full report
-[Read my full report](Palm-Haven-Findings-ana-Recommendations.pdf)
+[Read my full report](Palm-Haven-Findings-and-Recommendation%20.pdf)
